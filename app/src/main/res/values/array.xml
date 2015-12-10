@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Equipos">
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+        <item>Juventus</item>
+    </string-array>
+
+    <string-array name="jugadores_Real_Madrid">
+        <item>Cristiano Ronaldo</item>
+        <item>Bale</item>
+    </string-array>
+
+    <string-array name="jugadores_Barcelona">
+        <item>Messi</item>
+        <item>Neymar</item>
+    </string-array>
+
+    <string-array name="jugadores_Juventus">
+        <item>Buffon</item>
+        <item>Pogba</item>
+    </string-array>
+</resources>
